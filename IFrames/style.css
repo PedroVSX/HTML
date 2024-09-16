@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family: 'Rubik';
+    background-color: #292929;
+    color: #fafafa;
+}
+
+.navbar {
+    width: 100%;
+    height: 200px;
+    background-color: #1d1d1d;
+}
+
+.row {
+    padding-top: 10px;
+    display: flex;
+}
+
+.actions-col {
+    padding-left: 30px;
+    width: 20%;
+}
+
+.actions-col-text {
+    font-size: 20px;
+}
+
+.actions-col-hr {
+    width: 80%;
+    border-color: #fafafa;
+}
+
+.actions-col-items {
+    font-size: 15px;
+}
+
+.col {
+    width: 40%;
+}
